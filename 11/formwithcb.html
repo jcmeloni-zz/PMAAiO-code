@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>An HTML form with checkboxes</title>
+</head>
+<body>
+<form action="send_formwithcb.php" method="POST">
+<p><label for="name">Name:</label><br/>
+<input type="text" id="name" name="user" /></p>
+
+<fieldset>
+<legend>Select Some Products:</legend><br/>
+<input type="checkbox" id="tricorder"
+       name="products[]" value="Tricorder">
+       <label for="tricorder">Tricorder</label><br/>
+
+<input type="checkbox" id="ORAC_AI"
+       name="products[]" value="ORAC AI">
+       <label for="ORAC_AI">ORAC AI</label><br/>
+
+<input type="checkbox" id="HAL_2000"
+       name="products[]" value="HAL 2000">
+       <label for="HAL_2000">HAL 2000</label>
+</fieldset>
+
+<button type="submit" name="submit" value="submit">Submit Form</button>
+</form>
+</body>
+</html>

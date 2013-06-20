@@ -1,0 +1,25 @@
+{
+  "book":[
+    {
+      "title":"A Very Good Book",
+      "author":"Jane Doe",
+      "publisher_name":"Sams Publishing",
+      "publisher_city":"Indianapolis",
+      "publisher_year":"2012"
+    },
+    {
+          "title":"An Academic Book",
+          "author":"Anne Smith",
+          "publisher_name":"University of California Press",
+          "publisher_city":"Berkeley",
+          "publisher_year":"2011"
+    },
+    {
+          "title":"Some Fluff Fiction",
+          "author":"Jimbo Jones",
+          "publisher_name":"Fluffy Press",
+          "publisher_city":"New York",
+          "publisher_year":"2009"
+    }
+   ]
+}
