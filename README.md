@@ -5,6 +5,8 @@ This repository contains the sample code used in *Sams Teach Yourself PHP, MySQL
 
 All the code for this edition of the book is based on the latest version of PHP available at the time of writing (5.4.x, in this case), as well as shiny-at-the-time versions of MySQL (5.5.x) and Apache (2.4.x). 
 
+The sample code is organized into directories corresponding to the chapter number in which the code can be found in the book.
+
 About the Book
 ==============
 The purpose of this book is to learn the core concepts necessary for configuring and managing Apache, the basics of programming in PHP, and methods for using and administering MySQL. The overall goal of the book is to provide you with a foundation that will help you understand how seamlessly these technologies integrate with one another, and to give you practical knowledge of how to integrate them. 
