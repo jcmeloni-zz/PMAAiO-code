@@ -1,5 +1,5 @@
-PMAAiO-5e-code
-==============
+PMAAiO-code
+===========
 
 This repository contains the sample code used in *Sams Teach Yourself PHP, MySQL and Apache All-in-One* (5th edition, 2012).
 
